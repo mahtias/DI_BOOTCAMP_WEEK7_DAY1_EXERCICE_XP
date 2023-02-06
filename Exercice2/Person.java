@@ -1,5 +1,10 @@
 package Exercice2;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Person {
     private String name;
     private String lastName;
