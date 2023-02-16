@@ -1,9 +1,7 @@
 package Exercice3;
 
 
-/*
-*@author Konate-MK
-*/
+
 
 public class Car extends Vehicle {
     private String name;

@@ -1,9 +1,6 @@
 package Exercice3;
 
 
-/*
-*@author Konate-MK
-*/
 
 public class Vehicle {
     private String model;

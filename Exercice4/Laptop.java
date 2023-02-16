@@ -1,9 +1,7 @@
 package Exercice4;
 
 
-/*
-*@author Konate-MK
-*/
+
 
 public class Laptop extends Computer {
 

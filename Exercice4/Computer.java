@@ -1,8 +1,6 @@
 package Exercice4;
 
-/*
-*@author Konate-MK
-*/
+
 
 public class Computer {
 

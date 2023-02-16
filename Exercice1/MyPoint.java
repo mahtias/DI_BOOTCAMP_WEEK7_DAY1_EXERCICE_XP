@@ -1,7 +1,5 @@
 package Exercice1;
-/*
-*@author Konate-MK
-*/
+
 public class MyPoint {
     private int x;
     private int y;
